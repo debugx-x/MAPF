@@ -1,0 +1,4 @@
+#2.3 .... Since 0 had priority ... it reached its goal while blocking 1 from ever reaching it's goal .. 
+causing the program to be stuck in a infinite loop since 1 gets eithers stays still at position 
+or keeps shuffling between all open positions
+
